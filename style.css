@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.row{
+    margin: 6px 0;
+}
+.row input{
+    
+    margin: 0;
+    padding: 12px 8px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
